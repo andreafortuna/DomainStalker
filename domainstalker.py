@@ -181,11 +181,12 @@ if __name__ == '__main__':
   ___) | || (_| | |   <  __/ |        
  |____/ \__\__,_|_|_|\_\___|_|        
                                    v0.1
+Andrea Fortuna - andrea@andreafortuna.org - https://www.andreafortuna.org
 """)
 
 
     args = argparse.ArgumentParser(description="""
-Script to perform subdomain enumeration using google, bing and virusTotal.com, 
+Script to perform subdomain enumeration using google, bing, yahoo and virusTotal.com, 
 providing record resolution and http/https response codes. 
 
 usage:
